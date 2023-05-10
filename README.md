@@ -17,7 +17,7 @@ Most targeted up-to-date php interview questions and answers list
 - [What is an abstract class in PHP?](#what-is-an-abstract-class-in-php)
 - [What is a closure in PHP?](#what-is-a-closure-in-php)
 - [What is the use of the static keyword in PHP?](#what-is-the-use-of-the-static-keyword-in-php)
-- [More](#more)
+- [More targeted questions and answers](#more)
 - [Contributing](#contributing)
 - [License](#license)
 
