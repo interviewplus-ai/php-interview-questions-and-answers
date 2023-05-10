@@ -2,6 +2,25 @@
 
 Most targeted up-to-date php interview questions and answers list
 
+## Table of Contents
+
+- [What is PHP and what are its features?](#what-is-php-and-what-are-its-features)
+- [What are the differences between GET and POST methods in PHP?](#what-are-the-differences-between-get-and-post-methods-in-php)
+- [Explain what is meant by the term "superglobal" in PHP, and give an example of one.](#explain-what-is-meant-by-the-term-superglobal-in-php-and-give-an-example-of-one)
+- [What is the difference between include() and require() in PHP?](#what-is-the-difference-between-include-and-require-in-php)
+- [What is a session in PHP and how is it used?](#what-is-a-session-in-php-and-how-is-it-used)
+- [What is an interface in PHP and how is it used?](#what-is-an-interface-in-php-and-how-is-it-used)
+- [What is a trait in PHP and how is it used?](#what-is-a-trait-in-php-and-how-is-it-used)
+- [What is a namespace in PHP?](#what-is-a-namespace-in-php)
+- [How can you upload files in PHP?](#how-can-you-upload-files-in-php)
+- [What is the use of the header() function in PHP?](#what-is-the-use-of-the-header-function-in-php)
+- [What is an abstract class in PHP?](#what-is-an-abstract-class-in-php)
+- [What is a closure in PHP?](#what-is-a-closure-in-php)
+- [What is the use of the static keyword in PHP?](#what-is-the-use-of-the-static-keyword-in-php)
+- [More](#more)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## What is PHP and what are its features?
 
 PHP stands for Hypertext Preprocessor, and it is a server-side scripting language used for web development. Its features include:
